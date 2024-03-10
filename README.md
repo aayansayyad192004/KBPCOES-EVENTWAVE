@@ -1,4 +1,4 @@
-KBPCOES EVENTWAVE
+KBPCOES EVENTWAVE /n
 KBPCOES EVENTWAVE is an Android application developed for managing college events. The app is built using Java on Android Studio and utilizes Firebase as the backend database.
 
 Features
